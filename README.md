@@ -1,2 +1,5 @@
 # -chat-de-zula-
-bot de bienvenida
+
+Hola Humano
+
+Bienvenido al clan XxPANDEMONIOxX
